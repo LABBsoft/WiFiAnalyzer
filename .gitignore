@@ -17,4 +17,5 @@ coverage
 libs
 
 release
-app/build.properties
+
+build.properties
